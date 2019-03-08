@@ -1,5 +1,5 @@
 {
   "port": "5000",
-  "preLog": "TNG - applecrud - ",
+  "preLog": "SILOQ - applecrud - ",
   "log-level": "trace"
 }
